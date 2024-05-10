@@ -2,6 +2,8 @@
   "version":"2.5.10",
   "frontendLatestVersion":"2.5.9",
   "backendLatestVersion":"2.5.9",
+  "chemsrvLatestVersion":"1.4.2",
+  "mdsrvLatestVersion":"1.4.2",
   "tandemOSVersions":[
     {
       "moduleCode":"admet",
