@@ -1,7 +1,7 @@
 {
-  "version":"2.5.19",
-  "frontendLatestVersion":"2.5.18",
-  "backendLatestVersion":"2.5.19",
+  "version":"2.5.22",
+  "frontendLatestVersion":"2.5.21",
+  "backendLatestVersion":"2.5.22",
   "chemsrvLatestVersion":"1.4.3",
   "mdsrvLatestVersion":"1.0.0",
   "tandemOSVersions":[
@@ -11,19 +11,19 @@
     },
     {
       "moduleCode":"pose",
-      "latestVersion":"2.4.0"
-    },
-    {
-      "moduleCode":"force",
-      "latestVersion":"2.4.0"
-    },
-    {
-      "moduleCode":"atommap",
       "latestVersion":"2.4.2"
     },
     {
+      "moduleCode":"force",
+      "latestVersion":"2.4.2"
+    },
+    {
+      "moduleCode":"atommap",
+      "latestVersion":"2.4.4"
+    },
+    {
       "moduleCode":"netmap",
-      "latestVersion":"2.4.0"
+      "latestVersion":"2.4.2"
     },
     {
       "moduleCode":"energy",
@@ -31,7 +31,7 @@
     },
     {
       "moduleCode":"analytics",
-      "latestVersion":"2.3.3"
+      "latestVersion":"2.4.4"
     },
     {
       "moduleCode":"dynamics",
