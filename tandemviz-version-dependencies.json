@@ -1,13 +1,13 @@
 {
-  "version":"2.5.22",
-  "frontendLatestVersion":"2.5.21",
-  "backendLatestVersion":"2.5.22",
-  "chemsrvLatestVersion":"1.4.3",
+  "version":"2.6.0",
+  "frontendLatestVersion":"2.6.0",
+  "backendLatestVersion":"2.5.0",
+  "chemsrvLatestVersion":"1.5.0",
   "mdsrvLatestVersion":"1.0.0",
   "tandemOSVersions":[
     {
       "moduleCode":"admet",
-      "latestVersion":"2.2.2"
+      "latestVersion":"2.2.3"
     },
     {
       "moduleCode":"pose",
@@ -47,7 +47,7 @@
     },
     {
       "moduleCode":"chemspace",
-      "latestVersion":"1.0.8"
+      "latestVersion":"2.4.0"
     }
   ]
 }
