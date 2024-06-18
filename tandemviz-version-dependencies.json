@@ -1,7 +1,7 @@
 {
-  "version":"2.6.0",
-  "frontendLatestVersion":"2.6.0",
-  "backendLatestVersion":"2.5.0",
+  "version":"2.6.2",
+  "frontendLatestVersion":"2.6.2",
+  "backendLatestVersion":"2.6.2",
   "chemsrvLatestVersion":"1.5.0",
   "mdsrvLatestVersion":"1.0.0",
   "tandemOSVersions":[
@@ -19,7 +19,7 @@
     },
     {
       "moduleCode":"atommap",
-      "latestVersion":"2.4.4"
+      "latestVersion":"2.4.5"
     },
     {
       "moduleCode":"netmap",
