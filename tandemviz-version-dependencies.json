@@ -1,7 +1,7 @@
 {
-  "version":"2.6.2",
-  "frontendLatestVersion":"2.6.2",
-  "backendLatestVersion":"2.6.2",
+  "version":"2.6.4",
+  "frontendLatestVersion":"2.6.3",
+  "backendLatestVersion":"2.6.4",
   "chemsrvLatestVersion":"1.5.0",
   "mdsrvLatestVersion":"1.0.0",
   "tandemOSVersions":[
@@ -27,7 +27,7 @@
     },
     {
       "moduleCode":"energy",
-      "latestVersion":"2.4.2"
+      "latestVersion":"2.4.3"
     },
     {
       "moduleCode":"analytics",
@@ -35,7 +35,7 @@
     },
     {
       "moduleCode":"dynamics",
-      "latestVersion":"2.4.2"
+      "latestVersion":"2.4.3"
     },
     {
       "moduleCode":"dock",
