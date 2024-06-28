@@ -1,7 +1,7 @@
 {
-  "version":"2.6.6",
-  "frontendLatestVersion":"2.6.6",
-  "backendLatestVersion":"2.6.6",
+  "version":"2.6.7",
+  "frontendLatestVersion":"2.6.7",
+  "backendLatestVersion":"2.6.7",
   "chemsrvLatestVersion":"1.5.0",
   "mdsrvLatestVersion":"1.0.0",
   "tandemOSVersions":[
@@ -19,7 +19,7 @@
     },
     {
       "moduleCode":"atommap",
-      "latestVersion":"2.4.6"
+      "latestVersion":"2.4.7"
     },
     {
       "moduleCode":"netmap",
@@ -27,7 +27,7 @@
     },
     {
       "moduleCode":"energy",
-      "latestVersion":"2.4.5"
+      "latestVersion":"2.4.6"
     },
     {
       "moduleCode":"analytics",
@@ -35,7 +35,7 @@
     },
     {
       "moduleCode":"dynamics",
-      "latestVersion":"2.4.5"
+      "latestVersion":"2.4.6"
     },
     {
       "moduleCode":"dock",
