@@ -1,7 +1,7 @@
 {
-  "version":"2.7.16",
-  "frontendLatestVersion":"2.7.16",
-  "backendLatestVersion":"2.7.16",
+  "version":"2.7.18",
+  "frontendLatestVersion":"2.7.18",
+  "backendLatestVersion":"2.7.18",
   "chemsrvLatestVersion":"1.5.0",
   "mdsrvLatestVersion":"1.0.0",
   "tandemOSVersions":[
@@ -35,7 +35,7 @@
     },
     {
       "moduleCode":"dynamics",
-      "latestVersion":"2.5.3"
+      "latestVersion":"2.5.5"
     },
     {
       "moduleCode":"dock",
