@@ -1,8 +1,8 @@
 {
-  "version":"2.7.18",
-  "frontendLatestVersion":"2.7.18",
-  "backendLatestVersion":"2.7.18",
-  "chemsrvLatestVersion":"1.5.0",
+  "version":"2.8.0",
+  "frontendLatestVersion":"2.8.0",
+  "backendLatestVersion":"2.8.0",
+  "chemsrvLatestVersion":"1.6.0",
   "mdsrvLatestVersion":"1.0.0",
   "tandemOSVersions":[
     {
@@ -15,7 +15,7 @@
     },
     {
       "moduleCode":"force",
-      "latestVersion":"2.5.1"
+      "latestVersion":"2.5.2"
     },
     {
       "moduleCode":"atommap",
@@ -27,7 +27,7 @@
     },
     {
       "moduleCode":"energy",
-      "latestVersion":"2.5.3"
+      "latestVersion":"2.5.9"
     },
     {
       "moduleCode":"analytics",
@@ -35,7 +35,7 @@
     },
     {
       "moduleCode":"dynamics",
-      "latestVersion":"2.5.5"
+      "latestVersion":"2.5.9"
     },
     {
       "moduleCode":"dock",
@@ -43,7 +43,7 @@
     },
     {
       "moduleCode":"gen",
-      "latestVersion":"2.5.1"
+      "latestVersion":"2.5.2"
     },
     {
       "moduleCode":"chemspace",
