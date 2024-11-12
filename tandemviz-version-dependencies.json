@@ -7,11 +7,11 @@
   "tandemOSVersions":[
     {
       "moduleCode":"admet",
-      "latestVersion":"2.2.3"
+      "latestVersion":"2.2.6"
     },
     {
       "moduleCode":"pose",
-      "latestVersion":"2.5.4"
+      "latestVersion":"2.5.5"
     },
     {
       "moduleCode":"force",
@@ -27,19 +27,19 @@
     },
     {
       "moduleCode":"energy",
-      "latestVersion":"2.5.12"
+      "latestVersion":"2.5.13"
     },
     {
       "moduleCode":"analytics",
-      "latestVersion":"2.5.1"
+      "latestVersion":"2.5.2"
     },
     {
       "moduleCode":"dynamics",
-      "latestVersion":"2.5.12"
+      "latestVersion":"2.5.13"
     },
     {
       "moduleCode":"dock",
-      "latestVersion":"2.5.0"
+      "latestVersion":"2.5.1"
     },
     {
       "moduleCode":"gen",
