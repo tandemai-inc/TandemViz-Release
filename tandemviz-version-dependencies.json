@@ -1,13 +1,13 @@
 {
   "version":"3.2.0",
-  "frontendLatestVersion":"3.2.0",
-  "backendLatestVersion":"3.2.0",
-  "chemsrvLatestVersion":"1.7.0",
+  "frontendLatestVersion":"3.2.4",
+  "backendLatestVersion":"3.2.5",
+  "chemsrvLatestVersion":"1.7.1",
   "mdsrvLatestVersion":"1.0.0",
   "tandemOSVersions":[
     {
       "moduleCode":"admet",
-      "latestVersion":"2.2.6"
+      "latestVersion":"2.2.7"
     },
     {
       "moduleCode":"pose",
@@ -27,7 +27,7 @@
     },
     {
       "moduleCode":"energy",
-      "latestVersion":"2.6.2"
+      "latestVersion":"2.6.3"
     },
     {
       "moduleCode":"analytics",
@@ -35,7 +35,7 @@
     },
     {
       "moduleCode":"dynamics",
-      "latestVersion":"2.6.2"
+      "latestVersion":"2.6.3"
     },
     {
       "moduleCode":"dock",
@@ -43,7 +43,7 @@
     },
     {
       "moduleCode":"gen",
-      "latestVersion":"2.7.0"
+      "latestVersion":"2.7.1"
     },
     {
       "moduleCode":"chemspace",
