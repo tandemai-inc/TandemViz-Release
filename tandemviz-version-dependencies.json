@@ -1,8 +1,8 @@
 {
-  "version":"3.2.14",
-  "frontendLatestVersion":"3.2.11",
-  "backendLatestVersion":"3.2.14",
-  "chemsrvLatestVersion":"1.7.1",
+  "version":"3.3.0",
+  "frontendLatestVersion":"3.3.0",
+  "backendLatestVersion":"3.3.0",
+  "chemsrvLatestVersion":"1.8.0",
   "mdsrvLatestVersion":"1.0.0",
   "tandemOSVersions":[
     {
