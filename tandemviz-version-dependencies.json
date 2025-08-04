@@ -1,7 +1,7 @@
 {
-  "version":"3.4.24",
-  "frontendLatestVersion":"3.4.19",
-  "backendLatestVersion":"3.4.16",
+  "version":"3.5.3",
+  "frontendLatestVersion":"3.5.3",
+  "backendLatestVersion":"3.5.3",
   "chemsrvLatestVersion":"1.10.0",
   "mdsrvLatestVersion":"1.0.0",
   "tandemOSVersions":[
@@ -11,7 +11,7 @@
     },
     {
       "moduleCode":"pose",
-      "latestVersion":"2.7.6"
+      "latestVersion":"2.8.2"
     },
     {
       "moduleCode":"force",
@@ -52,6 +52,10 @@
     {
       "moduleCode":"lbvhts",
       "latestVersion":"1.0.12"
+    },
+    {
+      "moduleCode":"proteinpredict",
+      "latestVersion":"1.0.1"
     }
   ]
 }
